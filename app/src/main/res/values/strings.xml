@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News Apps</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="datetime">Date Time</string>
+
+    <string name="title_home">Top Headlines</string>
+
+    <string name="icon_app">News Apps</string>
+    <string name="app_about">by Muhammad Theo Reivai</string>
+    <string name="about">About</string>
+    <string name="detail_news">Detail News</string>
+    <string name="image_detail">Image Detail</string>
+    <string name="description">Description</string>
+    <string name="my_name">Muhammad Theo Reivai</string>
+    <string name="my_email">reivai64@gmail.com</string>
+    <string name="show_more">Show More</string>
+</resources>
